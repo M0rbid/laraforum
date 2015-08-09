@@ -1,0 +1,13 @@
+{
+    "name": "m0rbid/laraforum",
+    "description": "A high availability, peak load resistant Forum package for Laravel 5 based websites",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Timakov",
+            "email": "mortiis.aka.morbid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
